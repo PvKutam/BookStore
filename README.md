@@ -14,9 +14,9 @@ During this project, I used:
 - Firebase Storage for storing images and files
 
 ## 🛠️ Installation
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
+1.Clone the repository to your local machine.
+2.Run npm install or yarn in the project directory to install the required dependencies.
+3.Run npm run start or yarn start to get the project started.
 
 ## 📋 Future Enhancements
 - Add more user authentication methods
